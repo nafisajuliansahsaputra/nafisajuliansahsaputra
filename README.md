@@ -11,8 +11,8 @@ I work primarily with **TypeScript, React, Next.js, PHP, Laravel, PostgreSQL, an
 | Project | What it demonstrates | Stack | Status |
 | --- | --- | --- | --- |
 | [Smart Attendance System](https://github.com/nafisajuliansahsaputra/attendance-system) | RFID + 1:1 face verification, canonical attendance rules, device API, RBAC, reporting, idempotent persistence | Next.js, TypeScript, PostgreSQL, Supabase, Python, FastAPI, OpenCV | **Complete** |
-| [BAST](https://github.com/nafisajuliansahsaputra/bast) | Full-stack document lifecycle, server-side authorization, PDF generation, audit trail, admin workflows | Laravel, PHP, React, TypeScript, Inertia.js, MySQL/SQLite | **Complete · 2024 Internship Project** |
-| [NATSX Controller](https://github.com/nafisajuliansahsaputra/natsx-controller) | Android-to-Windows controller architecture, cross-platform protocol design, connectivity management, systems engineering | Kotlin, C#, .NET, networking, protocol design | **In Development** |
+| [BAST](https://github.com/nafisajuliansahsaputra/bast) | Full-stack document lifecycle, server-side authorization, PDF generation, audit trail, admin workflows | Laravel, PHP, React, TypeScript, Inertia.js, MySQL/SQLite | **Complete** |
+| [NATSX Controller](https://github.com/nafisajuliansahsaputra/natsx-controller) | Android-to-Windows controller architecture, cross-platform protocol design, connectivity management, systems engineering | Kotlin, C#, .NET, networking, protocol design | **Complete** |
 | [Spall Spill](https://github.com/nafisajuliansahsaputra/spall-spill) | Full-stack product architecture, authentication, publication flows, storage, security boundaries, automated testing | Next.js, React, TypeScript, PostgreSQL, Supabase, Cloudflare | **In Development** |
 
 ### Live work
